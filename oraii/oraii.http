@@ -1,0 +1,6 @@
+@oraii_HostAddress = http://localhost:5231
+
+GET {{oraii_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
